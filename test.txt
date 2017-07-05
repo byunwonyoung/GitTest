@@ -1,9 +1,6 @@
-A:
-A
-A
-A
-B
-B
-B
+c
+c
+c
+c
 
 hello eunae_
